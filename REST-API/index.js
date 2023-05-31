@@ -8,4 +8,3 @@ var users = require('./routes/users.js')
 app.use('/users', users)
 
 app.listen(PORT);
-
